@@ -1,3 +1,7 @@
+// Copyright (c) [Your Name/Username]. 
+// Licensed under the Mozilla Public License 2.0.
+// Stargate and related elements are trademarks of MGM.
+
 namespace CountdownTimerGUI;
 
 static class Program
